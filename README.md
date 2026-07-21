@@ -46,6 +46,8 @@ Data science fundamentals, full-stack web, and applied Gen AI — one stack, thr
 
 <br>
 
+## 📊 contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsfarButt/AsfarButt/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsfarButt/AsfarButt/output/github-contribution-grid-snake.svg">
