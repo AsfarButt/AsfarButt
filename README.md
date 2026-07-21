@@ -8,7 +8,7 @@
 
 ## 👋 who is this guy
 
-I'm Asfar — a Data Science student who accidentally fell into building things instead of just studying them. Somewhere between a stats lecture and a YouTube rabbit hole I ended up writing bots, so now that's just a whole thing I do.
+I'm Asfar — a Data Science student who accidentally fell into building things instead of just studying them. Somewhere between a stats lecture and a YouTube rabbit hole I ended up making CRM Dashboards, so now that's just a whole thing I do.
 
 I'm a BS Data Science student at Air University, and a freelance full-stack developer on the side. I sit at the intersection of three things that don't usually share a room: data science fundamentals, full-stack web dev (React / Node / Express / SQL), and applied Gen AI (LangChain, RAG pipelines, LLM APIs). Sensible people pick one lane. But who said anything about me being sensible?
 
