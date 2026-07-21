@@ -2,37 +2,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Asfar;professional+overthinker;occasional+bot+builder;send+help+(or+a+PR)" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <i>certified survivor of 2 semesters of Data Science. running on caffeine and stackoverflow muscle memory.</i>
-</p>
+<p align="center"><i>certified survivor of 2 semesters of Data Science. running on caffeine and stackoverflow muscle memory.</i></p>
 
 <br>
 
-## who is this guy
+## 👋 who is this guy
 
 I'm Asfar — a Data Science student who accidentally fell into building things instead of just studying them. Somewhere between a stats lecture and a YouTube rabbit hole I ended up writing bots, so now that's just a whole thing I do.
 
-<details>
-<summary>ok but actually who are you (click if you're not scared)</summary>
-<br>
-
 I'm a BS Data Science student at Air University, and a freelance full-stack developer on the side. I sit at the intersection of three things that don't usually share a room: data science fundamentals, full-stack web dev (React / Node / Express / SQL), and applied Gen AI (LangChain, RAG pipelines, LLM APIs). Most people pick one lane. I got bored and picked all three.
 
-I run my own client pipeline on Upwork — sourcing, pitching, and delivering full-stack work solo, no agency training wheels.
-
-</details>
+I also run my own client pipeline on Upwork — sourcing, pitching, and delivering full-stack work solo, no agency training wheels.
 
 <br>
 
-## what I'm currently breaking / building
+## 🛠️ what I'm currently breaking / building
 
-- 🧠 **RAG project — "chat with your notes"** — a portfolio piece that lets you actually talk to your own notes instead of losing them in 40 tabs. Built on LangChain 1.x + ChromaDB, shipped for free on Streamlit / HF Spaces because I refuse to pay for hosting on principle.
-- 🤖 **Jinx** — a tone-adaptive email auto-reply bot powered by the Groq API. It reads the vibe of an email and replies like it actually has social skills, which is more than I can say for myself before coffee.
-- 💼 **Freelancing on Upwork** — building React/Node full-stack projects for real clients while my professors think I'm asleep in the back row.
+| project | what it actually is |
+|---|---|
+| 🧠 **"chat with your notes"** | A RAG portfolio project that lets you talk to your own notes instead of losing them in 40 tabs. Built on **LangChain 1.x + ChromaDB**, shipped free on Streamlit / HF Spaces because I refuse to pay for hosting on principle. |
+| 🤖 **Jinx** | A tone-adaptive email auto-reply bot powered by the **Groq API**. It reads the vibe of an email and replies like it actually has social skills, more than I can say for myself before coffee. |
+| 💼 **Upwork freelancing** | Building React/Node full-stack projects for real clients while my professors think I'm asleep in the back row. |
 
 <br>
 
-## the toolbox
+## 🧰 the toolbox
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,17 +39,11 @@ I run my own client pipeline on Upwork — sourcing, pitching, and delivering fu
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 </p>
 
-<details>
-<summary>why these, specifically (the boring-but-important part)</summary>
-<br>
-
-Python + SQL for the data science backbone. React/Node/Express because a data pipeline nobody can click on isn't a product. LangChain + ChromaDB for retrieval-augmented generation — because "just prompt it" stops working the moment your data doesn't fit in a context window. Groq for inference speed when a bot actually needs to feel responsive, not just technically functional. Every piece here is chosen to work together, not just to pad a skills list.
-
-</details>
+Python + SQL for the data science backbone. React/Node/Express because a data pipeline nobody can click on isn't a product. LangChain + ChromaDB for retrieval-augmented generation, because "just prompt it" stops working once your data doesn't fit in a context window. Groq for inference speed when a bot needs to actually feel responsive. Every piece here is chosen to work together, not to pad a skills list.
 
 <br>
 
-## the numbers (for the nerds who scrolled this far)
+## 📊 the numbers
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -68,7 +56,7 @@ Python + SQL for the data science backbone. React/Node/Express because a data pi
 
 <br>
 
-## how to actually reach me
+## 📬 how to actually reach me
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
