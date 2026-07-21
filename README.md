@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Asfar;professional+overthinker;occasional+bot+builder;send+help+(or+a+PR)" alt="Typing SVG" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Asfar;Professional+overthinker;Occasional+bot+builder;Wanna+be+developer" alt="Typing SVG" />
 </h1>
 
 <p align="center"><i>certified survivor of 2 semesters of Data Science. running on caffeine and stackoverflow muscle memory.</i></p>
