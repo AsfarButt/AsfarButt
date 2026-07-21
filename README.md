@@ -40,16 +40,8 @@ Data science fundamentals, full-stack web, and applied Gen AI — one stack, thr
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AsfarButt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsfarButt&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AsfarButt&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsfarButt&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img height="170" src="https://github-readme-stats-hazel-rho-33.vercel.app/api?username=AsfarButt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-hazel-rho-33.vercel.app/api/top-langs/?username=AsfarButt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <br>
