@@ -16,35 +16,28 @@ I also run my own client pipeline on Upwork — sourcing, pitching, and deliveri
 
 <br>
 
-## 🛠️ what I'm currently breaking / building
+## 🛠️ currently building
 
-| project | what it actually is |
+| project | what it does |
 |---|---|
-| 🧠 **RAG automation — "chat with your notes"** | Talk to your own notes instead of losing them in 40 tabs. Retrieval pipeline on **LangChain 1.x + ChromaDB**, shipped free on Streamlit / HF Spaces because I refuse to pay for hosting on principle. |
-| 🦖 **Chrome dino game clone** | Yes, *that* offline no-wifi dinosaur. Rebuilt from scratch — canvas rendering, a real game loop, and collision detection that doesn't lie to you like the original does at high speed. |
-| ⛏️ **nubiamining.com** | A full client website for a mining company, built and shipped end to end. This is what "freelance work" actually looks like once you strip the buzzwords out. |
-| 🧱 **Tetris** | The classic, from the ground up — rotation system, line clears, gravity, the works. If you can build Tetris cleanly, you can build most things cleanly. |
+| **RAG Automations** | Chat with your own notes — LangChain + ChromaDB retrieval pipeline. |
+| **Chrome Dino Game Clone** | The offline no-wifi dino, rebuilt from scratch in JS. |
+| **Nubia Mining Website** | Full client site for a mining company, built end to end. |
+| **Tetris Game** | The classic — rotation, line clears, gravity, all of it. |
 
 <br>
 
-## 🧰 the toolbox
+## 🧰 stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=py,react,nodejs,express,postgres,langchain,groq&theme=dark"/>
 </p>
 
-Python + SQL for the data science backbone. React/Node/Express because a data pipeline nobody can click on isn't a product. LangChain + ChromaDB for retrieval-augmented generation, because "just prompt it" stops working once your data doesn't fit in a context window. Groq for inference speed when a bot needs to actually feel responsive. Every piece here is chosen to work together, not to pad a skills list.
+Data science fundamentals, full-stack web, and applied Gen AI — one stack, three lanes.
 
 <br>
 
-## 📊 the numbers
+## 📊 stats
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AsfarButt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -55,14 +48,20 @@ Python + SQL for the data science backbone. React/Node/Express because a data pi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfarButt&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsfarButt&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsfarButt/AsfarButt/output/github-contribution-grid-snake.svg"/>
+</p>
+
 <br>
 
-## 📬 how to actually reach me
+## 📬 reach me
 
 <p align="left">
   <a href="mailto:asfarbutt69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/asfar-butt-b7385a385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~016e4d2299c76f798a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
-
-<p align="center"><i>If the repo doesn't explain itself, that's what the inbox is for.</i></p>
