@@ -20,9 +20,10 @@ I also run my own client pipeline on Upwork — sourcing, pitching, and deliveri
 
 | project | what it actually is |
 |---|---|
-| 🧠 **"chat with your notes"** | A RAG portfolio project that lets you talk to your own notes instead of losing them in 40 tabs. Built on **LangChain 1.x + ChromaDB**, shipped free on Streamlit / HF Spaces because I refuse to pay for hosting on principle. |
-| 🤖 **Jinx** | A tone-adaptive email auto-reply bot powered by the **Groq API**. It reads the vibe of an email and replies like it actually has social skills, more than I can say for myself before coffee. |
-| 💼 **Upwork freelancing** | Building React/Node full-stack projects for real clients while my professors think I'm asleep in the back row. |
+| 🧠 **RAG automation — "chat with your notes"** | Talk to your own notes instead of losing them in 40 tabs. Retrieval pipeline on **LangChain 1.x + ChromaDB**, shipped free on Streamlit / HF Spaces because I refuse to pay for hosting on principle. |
+| 🦖 **Chrome dino game clone** | Yes, *that* offline no-wifi dinosaur. Rebuilt from scratch — canvas rendering, a real game loop, and collision detection that doesn't lie to you like the original does at high speed. |
+| ⛏️ **nubiamining.com** | A full client website for a mining company, built and shipped end to end. This is what "freelance work" actually looks like once you strip the buzzwords out. |
+| 🧱 **Tetris** | The classic, from the ground up — rotation system, line clears, gravity, the works. If you can build Tetris cleanly, you can build most things cleanly. |
 
 <br>
 
@@ -51,7 +52,7 @@ Python + SQL for the data science backbone. React/Node/Express because a data pi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfarButt&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
