@@ -6,7 +6,7 @@
 
 <br>
 
-## 👋 who is this guy
+##  who is this guy?
 
 I'm Asfar — a Data Science student who accidentally fell into building things instead of just studying them. Somewhere between a stats lecture and a YouTube rabbit hole I ended up making CRM Dashboards, so now that's just a whole thing I do.
 
