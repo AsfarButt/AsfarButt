@@ -37,24 +37,27 @@ Data science fundamentals, full-stack web, and applied Gen AI — one stack, thr
 
 <br>
 
-## 📊 Stats
+<!--
+  This replaces everything from "## 📊 Stats" through "## 📊 contributions"
+  in your existing README. Everything above the stack section stays exactly as-is.
+-->
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-hazel-rho-33.vercel.app/api?username=AsfarButt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-hazel-rho-33.vercel.app/api/top-langs/?username=AsfarButt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://raw.githubusercontent.com/AsfarButt/AsfarButt/main/assets/github-stats-card.svg" alt="AsfarButt's live GitHub stats card" />
 </p>
+
+<sub>Updates automatically every 6 hours via GitHub Actions — real repo, star, follower and contribution data, no static snapshots.</sub>
 
 <br>
 
 ## 📊 contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsfarButt/AsfarButt/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsfarButt/AsfarButt/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AsfarButt/AsfarButt/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
 
 ## 📬 reach me
 
