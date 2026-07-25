@@ -28,7 +28,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.STATS_CARD_TOKEN }}
           PROFILE_USERNAME: AsfarButt
-        run: python scripts/generate_stats_card.py
+        run: python .github/workflows/scripts/generate_stats_card.py
 
       - name: Commit and push if changed
         run: |
