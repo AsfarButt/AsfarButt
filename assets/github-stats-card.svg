@@ -20,7 +20,7 @@
 
   <rect x="230" y="46" width="190" height="52" rx="3" fill="#2cbb5d" fill-opacity="0.1" stroke="#2cbb5d" stroke-opacity="0.35"/>
   <text x="244" y="66" class="label" fill="#2cbb5d">Repos</text>
-  <text x="244" y="88" class="stat-val">20</text>
+  <text x="244" y="88" class="stat-val">22</text>
 
   <rect x="230" y="108" width="190" height="52" rx="3" fill="#ffc01e" fill-opacity="0.1" stroke="#ffc01e" stroke-opacity="0.35"/>
   <text x="244" y="128" class="label" fill="#ffc01e">Stars</text>
