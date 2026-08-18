@@ -33,11 +33,11 @@
   <!-- Right panel: contributions + streak -->
   <rect class="panel" x="458" y="16" width="526" height="230" rx="4"/>
   <text x="480" y="46" class="title">Contributions (past year)</text>
-  <text x="480" y="86" class="big-num">270</text>
+  <text x="480" y="86" class="big-num">277</text>
 
   <text x="480" y="130" class="title">Current Streak</text>
   <rect x="480" y="142" width="230" height="60" rx="3" fill="#2cbb5d" fill-opacity="0.1" stroke="#2cbb5d" stroke-opacity="0.4"/>
-  <text x="500" y="178" class="stat-val" fill="#2cbb5d">0 days</text>
+  <text x="500" y="178" class="stat-val" fill="#2cbb5d">2 days</text>
 
   <text x="730" y="130" class="title">Longest Streak</text>
   <rect x="730" y="142" width="230" height="60" rx="3" fill="#ffc01e" fill-opacity="0.1" stroke="#ffc01e" stroke-opacity="0.4"/>
