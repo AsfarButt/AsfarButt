@@ -13,18 +13,18 @@
   <rect class="panel" x="16" y="16" width="430" height="230" rx="4"/>
   <circle cx="120" cy="130" r="54" fill="none" stroke="#30363d" stroke-width="10"/>
   <circle cx="120" cy="130" r="54" fill="none" stroke="#ef4743" stroke-width="10"
-    stroke-dasharray="64.5 339.3" stroke-linecap="round"
+    stroke-dasharray="67.9 339.3" stroke-linecap="round"
     transform="rotate(-90 120 130)"/>
-  <text x="120" y="124" text-anchor="middle" class="ring-pct">19%</text>
+  <text x="120" y="124" text-anchor="middle" class="ring-pct">20%</text>
   <text x="120" y="144" text-anchor="middle" class="label">active days</text>
 
   <rect x="230" y="46" width="190" height="52" rx="3" fill="#2cbb5d" fill-opacity="0.1" stroke="#2cbb5d" stroke-opacity="0.35"/>
   <text x="244" y="66" class="label" fill="#2cbb5d">Repos</text>
-  <text x="244" y="88" class="stat-val">22</text>
+  <text x="244" y="88" class="stat-val">23</text>
 
   <rect x="230" y="108" width="190" height="52" rx="3" fill="#ffc01e" fill-opacity="0.1" stroke="#ffc01e" stroke-opacity="0.35"/>
   <text x="244" y="128" class="label" fill="#ffc01e">Stars</text>
-  <text x="244" y="150" class="stat-val">0</text>
+  <text x="244" y="150" class="stat-val">3</text>
 
   <rect x="230" y="170" width="190" height="52" rx="3" fill="#ef4743" fill-opacity="0.1" stroke="#ef4743" stroke-opacity="0.35"/>
   <text x="244" y="190" class="label" fill="#ef4743">Followers</text>
@@ -33,11 +33,11 @@
   <!-- Right panel: contributions + streak -->
   <rect class="panel" x="458" y="16" width="526" height="230" rx="4"/>
   <text x="480" y="46" class="title">Contributions (past year)</text>
-  <text x="480" y="86" class="big-num">277</text>
+  <text x="480" y="86" class="big-num">280</text>
 
   <text x="480" y="130" class="title">Current Streak</text>
   <rect x="480" y="142" width="230" height="60" rx="3" fill="#2cbb5d" fill-opacity="0.1" stroke="#2cbb5d" stroke-opacity="0.4"/>
-  <text x="500" y="178" class="stat-val" fill="#2cbb5d">0 days</text>
+  <text x="500" y="178" class="stat-val" fill="#2cbb5d">2 days</text>
 
   <text x="730" y="130" class="title">Longest Streak</text>
   <rect x="730" y="142" width="230" height="60" rx="3" fill="#ffc01e" fill-opacity="0.1" stroke="#ffc01e" stroke-opacity="0.4"/>
